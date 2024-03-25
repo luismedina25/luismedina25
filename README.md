@@ -16,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello my name is Luis Medina
-* I'm currently a student at WGU getting my Masters of Science in Data Analytics.
-* I am interested in a career in Data Anayltics or Businesss Analytics.
